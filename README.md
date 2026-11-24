@@ -12,6 +12,13 @@ Sort, then for each candidate smallest member `a[i]`, the remaining task — fin
 
 **Complexity:** O(n²) time, O(1) extra space beyond the output.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
